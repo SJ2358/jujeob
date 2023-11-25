@@ -8,8 +8,8 @@ import java.sql.Statement;
 
 public class myDB {
     String strDriver = "com.mysql.cj.jdbc.Driver";
-    String strURL = "jdbc:mysql://localhost:3306/mydb?characterEncoding=UTF-8&serverTimezone=UTC";
-    String strUser = "root";
+    String strURL = "jdbc:mysql://39.123.212.81:3306/mydb?characterEncoding=UTF-8&serverTimezone=UTC";
+    String strUser = "tester";
     String strPWD = "Inha1958";
     
     Connection DB_con;
